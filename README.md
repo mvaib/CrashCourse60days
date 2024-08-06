@@ -1,7 +1,7 @@
 #  CrashCourse60days Project
 
 ## Project Description
-CWProject2-MovieApp is a public repository focused on a Movie Application project.
+CrashCourse60days Project is a public repository focused on a Clone Bewakoof  Online Shopping Application project.
 
 
 ## Technologies Used
