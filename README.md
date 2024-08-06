@@ -1,4 +1,4 @@
-# CWProject2-MovieApp
+#  CrashCourse60days Project
 
 ## Project Description
 CWProject2-MovieApp is a public repository focused on a Movie Application project.
